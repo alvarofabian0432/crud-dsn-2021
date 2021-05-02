@@ -1,3 +1,1 @@
-# CRUD with Nodejs, Express and Mongodb
-![](docs/screenshot.png)
-
+# crud-dsn-2021
